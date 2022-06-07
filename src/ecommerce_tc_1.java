@@ -29,7 +29,7 @@ public class ecommerce_tc_1 extends base{
 		
 		//Actual validation
 		Assert.assertEquals("Please enter your name", toastMessage);
-		
+		System.out.println("Hola");
 	}
 
 }
